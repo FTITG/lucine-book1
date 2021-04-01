@@ -19,5 +19,6 @@
   "homepage": "https://github.com/FTITG/lucine-book1#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2"
-  }
+  },
+  "dependencies": {}
 }
